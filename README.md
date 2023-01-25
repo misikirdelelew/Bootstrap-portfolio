@@ -68,7 +68,7 @@
 > Anyone who wants to work on this project just simple clone to your local machine. this project has been acessed online just for learning propose.
 
 To get a local copy up and running, follow these steps.
-Go to git https://github.com/MishDM/My-Portfolio  and clone My-portfolio repository to your local machine and run the index.html
+Go to git https://github.com/MishDM/Bootstrap-portfolio.git and clone My-portfolio repository to your local machine and run the index.html
 
 ### Prerequisites
 
@@ -86,14 +86,13 @@ Clone this repository to your desired folder:
 
 > Mention all of the collaborators of this project.
 
-👤 **Misikir Delelew Mulate**
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
 
-👤 **Mohammad Mohsen Haidari**
+👤 **Misikir Delelew Mulate**
 
 - GitHub: [@github/MishMD](https://github.com/MishMD)
 - Twitter: [@misikirdelelw](https://twitter.com/misikir.delelew)
